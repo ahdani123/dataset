@@ -28,7 +28,7 @@ Usia (tahun),Jenis Kelamin,Skor TB,BB,TB,Kontak TB,Mantoux,Status Gizi,Batuk2min
 9,L,0,23.5,126,tidak,Negatif,Gizi kurang,iya,iya,tidak,tidak,tidak,Negatif,Pneumonia,10.7,7360,317000,Negatif,bukan TB
 3,L,0,10.6,81,tidak,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Normal,8.2,13430,288000,Negatif,bukan TB
 15,L,0,43,168,tidak,Negatif,Tidak ada,iya,iya,iya,iya,tidak,Negatif,Efusi pleura unilateral,9.1,20830,412000,Negatif,bukan TB
-1,L,0,3.3,42,tidak,Negatif,Gizi buruk,ya,tidak,tidak,iya,tidak,Negatif,Pneumonia,12.6,15570,259000,Negatif,bukan TB
+1,L,0,3.3,42,tidak,Negatif,Gizi buruk,iya,tidak,tidak,iya,tidak,Negatif,Pneumonia,12.6,15570,259000,Negatif,bukan TB
 10,L,6,24.5,131,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Efusi pleura bilateral,11.7,9660,193000,Positif,TB klinis
 1,P,0,5.5,68,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Pneumonia,11,14350,684000,Positif,TB laten
 14,P,4,40,156,tidak,Negatif,Gizi kurang,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,9.7,9120,513000,Positif,TB klinis
