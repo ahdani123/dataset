@@ -1,0 +1,6 @@
+Usia (tahun),Jenis Kelamin,Skor TB,BB,TB,Kontak TB,Mantoux,Status Gizi,Batuk2minggu,Demam2minggu,Sesak,Penurunan BB,Limpadenopati,Gene Expert,Rontgen2,Hb,Leukosit,Trombosit,IGRA,Diagnosis
+9,L,0,45,160,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Normal,11.8,18250,487000,Positif,TB laten
+17,L,0,56,165,tidak,Tidak ada,Gizi buruk,iya,iya,tidak,tidak,tidak,Negatif,Pneumonia,12,10745,430000,Negatif,bukan TB
+1,L,8,15,88,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Normal,10.9,8490,420000,Negatif,TB klinis
+2,L,8,9.6,78,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Normal,,,,Negatif,TB klinis
+2,L,5,8.5,77,tidak,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,9.9,4180,68000,Positif,TB terkonfirmasi bakteriologi
