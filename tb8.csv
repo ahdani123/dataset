@@ -1,123 +1,123 @@
 Usia (tahun),Jenis Kelamin,Skor TB,BB,TB,Kontak TB,Mantoux,Status Gizi,Batuk2minggu,Demam2minggu,Sesak,Penurunan BB,Limpadenopati,Gene Expert,Rontgen2,Hb,Leukosit,Trombosit,IGRA,Diagnosis
-9,L,0,45,160,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Normal,11.8,18250,487000,Positif,TB laten
+9,L,0,45,160,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Normal,11.8,18250,487000,Positif,TB
 17,L,0,56,165,tidak,Tidak ada,Gizi buruk,iya,iya,tidak,tidak,tidak,Negatif,Pneumonia,12,10745,430000,Negatif,bukan TB
-1,L,8,15,88,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Normal,10.9,8490,420000,Negatif,TB klinis
-2,L,8,9.6,78,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Normal,,,,Negatif,TB klinis
-2,L,5,8.5,77,tidak,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,9.9,4180,68000,Positif,TB terkonfirmasi bakteriologi
+1,L,8,15,88,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Normal,10.9,8490,420000,Negatif,TB
+2,L,8,9.6,78,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Normal,,,,Negatif,TB
+2,L,5,8.5,77,tidak,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,9.9,4180,68000,Positif,TB
 1,P,0,4.8,63,tidak,Negatif,Gizi buruk,iya,tidak,tidak,iya,tidak,Negatif,Pneumonia,,,,Negatif,bukan TB
-13,L,7,35,146,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Positif,TB milier,13.3,7260,388000,Positif,TB terkonfirmasi bakteriologi
-4,L,10,10.5,105,iya,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Positif,Normal,8,4140,251000,Negatif,TB terkonfirmasi bakteriologi
-15,P,6,37,152,tidak,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,TB paru,10.8,15450,592000,Positif,TB terkonfirmasi bakteriologi
-14,P,1,34,142,tidak,Negatif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Normal,13.1,9990,350000,Positif,TB laten
-3,L,3,10.5,85,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,TB paru,13,7610,304000,Negatif,TB klinis
-14,P,5,37.5,154,tidak,Negatif,Gizi kurang,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,10.1,9500,204000,Positif,TB klinis
-14,P,5,35,145,tidak,Negatif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Pneumonia,9.6,8770,504000,Negatif,TB klinis
+13,L,7,35,146,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Positif,TB milier,13.3,7260,388000,Positif,TB
+4,L,10,10.5,105,iya,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Positif,Normal,8,4140,251000,Negatif,TB
+15,P,6,37,152,tidak,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,TB paru,10.8,15450,592000,Positif,TB
+14,P,1,34,142,tidak,Negatif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Normal,13.1,9990,350000,Positif,TB
+3,L,3,10.5,85,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,TB paru,13,7610,304000,Negatif,TB
+14,P,5,37.5,154,tidak,Negatif,Gizi kurang,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,10.1,9500,204000,Positif,TB
+14,P,5,35,145,tidak,Negatif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Pneumonia,9.6,8770,504000,Negatif,TB
 3,L,0,12,87,iya,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,10.7,10160,371000,Negatif,bukan TB
 4,L,0,11.5,94,tidak,Negatif,Gizi buruk,iya,iya,tidak,iya,iya,Negatif,Pneumonia,7.3,16390,467000,Negatif,bukan TB
 6,L,4,19,115,iya,Negatif,Gizi buruk,iya,iya,tidak,iya,iya,Negatif,Normal,11.2,11970,393000,Negatif,bukan TB
 1,P,0,3,46,iya,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,9.9,11860,175000,Negatif,bukan TB
-14,P,8,37.6,138,iya,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Efusi pleura bilateral,10.8,7350,388000,Positif,TB terkonfirmasi bakteriologi
-1,L,5,10.2,73,tidak,Positif,Gizi baik,tidak,tidak,iya,tidak,tidak,Positif,Pneumonia,9.5,11170,463000,Positif,TB terkonfirmasi bakteriologi
+14,P,8,37.6,138,iya,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Efusi pleura bilateral,10.8,7350,388000,Positif,TB
+1,L,5,10.2,73,tidak,Positif,Gizi baik,tidak,tidak,iya,tidak,tidak,Positif,Pneumonia,9.5,11170,463000,Positif,TB
 1,P,0,7.5,71,tidak,Negatif,Gizi buruk,iya,tidak,tidak,tidak,tidak,Negatif,Pneumonia,11,12700,314000,Negatif,bukan TB
 6,P,0,15,107,tidak,Negatif,Tidak ada,tidak,tidak,tidak,iya,tidak,Negatif,Normal,12.4,4370,250000,Negatif,bukan TB
 1,L,0,6,63,tidak,Negatif,Gizi kurang,tidak,iya,iya,tidak,tidak,Negatif,Pneumonia,11.6,9210,294000,Negatif,bukan TB
-12,P,6,36.5,152,tidak,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,TB paru,10.8,15500,539000,Positif,TB terkonfirmasi bakteriologi
+12,P,6,36.5,152,tidak,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,TB paru,10.8,15500,539000,Positif,TB
 1,P,0,4.5,60,tidak,Negatif,Gizi kurang,iya,iya,tidak,iya,tidak,Negatif,Pneumonia,9.8,7380,382000,Negatif,bukan TB
-4,L,0,15,98,tidak,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,10.7,6230,339000,Positif,TB laten
-14,P,5,41,150,tidak,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Negatif,Pneumotoraks,10.5,7720,381000,Positif,TB klinis
+4,L,0,15,98,tidak,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,10.7,6230,339000,Positif,TB
+14,P,5,41,150,tidak,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Negatif,Pneumotoraks,10.5,7720,381000,Positif,TB
 9,L,0,23.5,126,tidak,Negatif,Gizi kurang,iya,iya,tidak,tidak,tidak,Negatif,Pneumonia,10.7,7360,317000,Negatif,bukan TB
 3,L,0,10.6,81,tidak,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,Normal,8.2,13430,288000,Negatif,bukan TB
 15,L,0,43,168,tidak,Negatif,Tidak ada,iya,iya,iya,iya,tidak,Negatif,Efusi pleura unilateral,9.1,20830,412000,Negatif,bukan TB
 1,L,0,3.3,42,tidak,Negatif,Gizi buruk,iya,tidak,tidak,iya,tidak,Negatif,Pneumonia,12.6,15570,259000,Negatif,bukan TB
-10,L,6,24.5,131,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Efusi pleura bilateral,11.7,9660,193000,Positif,TB klinis
-1,P,0,5.5,68,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Pneumonia,11,14350,684000,Positif,TB laten
-14,P,4,40,156,tidak,Negatif,Gizi kurang,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,9.7,9120,513000,Positif,TB klinis
+10,L,6,24.5,131,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,Efusi pleura bilateral,11.7,9660,193000,Positif,TB
+1,P,0,5.5,68,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Pneumonia,11,14350,684000,Positif,TB
+14,P,4,40,156,tidak,Negatif,Gizi kurang,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,9.7,9120,513000,Positif,TB
 12,L,0,32,136,tidak,Negatif,Gizi kurang,iya,tidak,tidak,tidak,tidak,Negatif,Pneumonia,10.2,7430,276000,Negatif,bukan TB
-8,L,0,22,120,iya,Negatif,Gizi baik,iya,tidak,tidak,iya,tidak,Negatif,Normal,,,,Positif,TB laten
-4,L,7,20,108,tidak,Positif,Gizi lebih,iya,tidak,tidak,iya,tidak,Negatif,Normal,,,,Negatif,TB klinis
-7,L,0,29,118,tidak,Negatif,Gizi baik,iya,tidak,tidak,tidak,tidak,Negatif,Normal,12.6,8440,328000,Positif,TB laten
+8,L,0,22,120,iya,Negatif,Gizi baik,iya,tidak,tidak,iya,tidak,Negatif,Normal,,,,Positif,TB
+4,L,7,20,108,tidak,Positif,Gizi lebih,iya,tidak,tidak,iya,tidak,Negatif,Normal,,,,Negatif,TB
+7,L,0,29,118,tidak,Negatif,Gizi baik,iya,tidak,tidak,tidak,tidak,Negatif,Normal,12.6,8440,328000,Positif,TB
 10,P,0,27,134,tidak,Negatif,Gizi kurang,iya,iya,tidak,tidak,tidak,Negatif,Normal,11,11430,326000,Negatif,bukan TB
-13,P,6,40,158,iya,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Efusi pleura unilateral,10.3,10880,380000,Positif,TB terkonfirmasi bakteriologi
-1,L,6,5.8,65,tidak,Positif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Pneumonia,9.2,39120,218000,Positif,TB klinis
-2,L,7,10.5,80,tidak,Positif,Gizi kurang,iya,iya,tidak,iya,tidak,Negatif,Normal,9.9,8230,560000,tidak ada,TB klinis
-14,P,6,35,155,tidak,Negatif,Gizi buruk,iya,tidak,iya,iya,tidak,Negatif,Efusi pleura bilateral,9.3,6580,681000,tidak ada,TB klinis
-8,L,6,19,119,iya,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,TB paru,10.2,14850,497000,tidak ada,TB terkonfirmasi bakteriologi
-14,L,6,40,155,iya,Negatif,Gizi kurang,iya,iya,tidak,iya,tidak,Positif,TB paru,11.3,10040,436000,tidak ada,TB terkonfirmasi bakteriologi
-14,P,7,49,152,tidak,Positif,Gizi baik,iya,iya,tidak,iya,iya,Positif,Fibrosis,15.6,4630,255000,Positif,TB terkonfirmasi bakteriologi
-7,L,8,19,122,iya,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,Efusi pleura bilateral,8.6,5480,167000,tidak ada,TB klinis
-13,P,6,33.5,148,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Pneumonia,14.4,4700,229000,tidak ada,TB klinis
-12,L,7,40,140,tidak,Negatif,Gizi baik,tidak,iya,tidak,tidak,tidak,Positif,TB milier,12.4,11.64,426000,tidak ada,TB terkonfirmasi bakteriologi
-16,L,3,45,165,tidak,Negatif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Positif,Pneumonia,10.8,14500,370000,tidak ada,TB terkonfirmasi bakteriologi
-1,P,7,5.4,62,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,10,11430,375000,tidak ada,TB terkonfirmasi bakteriologi
-17,P,8,36,152,iya,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Normal,9,6160,422000,tidak ada,TB klinis
-4,L,6,12.3,90,tidak,Positif,Gizi kurang,iya,iya,iya,tidak,iya,Negatif,Efusi pleura unilateral,8.1,7220,503000,tidak ada,TB klinis
-13,L,6,35,152,tidak,Positif,Gizi kurang,tidak,tidak,tidak,iya,iya,Positif,Normal,9.9,25180,695000,tidak ada,TB terkonfirmasi bakteriologi
-14,P,8,37,155,tidak,Positif,Gizi buruk,iya,tidak,tidak,iya,tidak,Positif,Pneumonia,10.1,16710,419000,tidak ada,TB terkonfirmasi bakteriologi
-12,P,8,30,141,iya,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Positif,Pneumonia,6.7,4840,180,tidak ada,TB terkonfirmasi bakteriologi
-6,P,6,10,95,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,TB milier,8.9,12070,410000,tidak ada,TB klinis
-4,L,6,12.3,101,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Negatif,Pneumotoraks,10.3,14180,742000,tidak ada,TB klinis
-1,P,8,9.5,80,iya,Positif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,Pneumonia,11.9,8720,305000,tidak ada,TB klinis
-16,P,8,46,150,iya,Positif,Gizi baik,iya,tidak,tidak,iya,tidak,Positif,Kavitas,9.1,8760,487000,tidak ada,TB terkonfirmasi bakteriologi
-14,P,8,36,147,iya,Negatif,Gizi kurang,iya,iya,iya,iya,iya,Positif,TB paru,9.2,13870,510000,tidak ada,TB terkonfirmasi bakteriologi
+13,P,6,40,158,iya,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Efusi pleura unilateral,10.3,10880,380000,Positif,TB
+1,L,6,5.8,65,tidak,Positif,Gizi buruk,tidak,iya,iya,iya,tidak,Negatif,Pneumonia,9.2,39120,218000,Positif,TB
+2,L,7,10.5,80,tidak,Positif,Gizi kurang,iya,iya,tidak,iya,tidak,Negatif,Normal,9.9,8230,560000,tidak ada,TB
+14,P,6,35,155,tidak,Negatif,Gizi buruk,iya,tidak,iya,iya,tidak,Negatif,Efusi pleura bilateral,9.3,6580,681000,tidak ada,TB
+8,L,6,19,119,iya,Positif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,TB paru,10.2,14850,497000,tidak ada,TB
+14,L,6,40,155,iya,Negatif,Gizi kurang,iya,iya,tidak,iya,tidak,Positif,TB paru,11.3,10040,436000,tidak ada,TB
+14,P,7,49,152,tidak,Positif,Gizi baik,iya,iya,tidak,iya,iya,Positif,Fibrosis,15.6,4630,255000,Positif,TB
+7,L,8,19,122,iya,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,Efusi pleura bilateral,8.6,5480,167000,tidak ada,TB
+13,P,6,33.5,148,tidak,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Pneumonia,14.4,4700,229000,tidak ada,TB
+12,L,7,40,140,tidak,Negatif,Gizi baik,tidak,iya,tidak,tidak,tidak,Positif,TB milier,12.4,11.64,426000,tidak ada,TB
+16,L,3,45,165,tidak,Negatif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Positif,Pneumonia,10.8,14500,370000,tidak ada,TB
+1,P,7,5.4,62,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,10,11430,375000,tidak ada,TB
+17,P,8,36,152,iya,Positif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,Normal,9,6160,422000,tidak ada,TB
+4,L,6,12.3,90,tidak,Positif,Gizi kurang,iya,iya,iya,tidak,iya,Negatif,Efusi pleura unilateral,8.1,7220,503000,tidak ada,TB
+13,L,6,35,152,tidak,Positif,Gizi kurang,tidak,tidak,tidak,iya,iya,Positif,Normal,9.9,25180,695000,tidak ada,TB
+14,P,8,37,155,tidak,Positif,Gizi buruk,iya,tidak,tidak,iya,tidak,Positif,Pneumonia,10.1,16710,419000,tidak ada,TB
+12,P,8,30,141,iya,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Positif,Pneumonia,6.7,4840,180,tidak ada,TB
+6,P,6,10,95,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,TB milier,8.9,12070,410000,tidak ada,TB
+4,L,6,12.3,101,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Negatif,Pneumotoraks,10.3,14180,742000,tidak ada,TB
+1,P,8,9.5,80,iya,Positif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,Pneumonia,11.9,8720,305000,tidak ada,TB
+16,P,8,46,150,iya,Positif,Gizi baik,iya,tidak,tidak,iya,tidak,Positif,Kavitas,9.1,8760,487000,tidak ada,TB
+14,P,8,36,147,iya,Negatif,Gizi kurang,iya,iya,iya,iya,iya,Positif,TB paru,9.2,13870,510000,tidak ada,TB
 2,L,0,,,tidak,Tidak ada,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,10.8,9240,304000,Negatif,bukan TB
 1,P,0,9.5,82,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,,,,Negatif,bukan TB
-1,L,1,9,70,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,9,13850,508000,Negatif,TB klinis
+1,L,1,9,70,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,9,13850,508000,Negatif,TB
 1,P,2,4.5,54.5,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,Pneumonia,10.5,13950,292000,Negatif,bukan TB
 14,P,0,45,150,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,Normal,,,,tidak ada,bukan TB
-1,L,3,8.5,57,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,Efusi pleura unilateral,10.4,15210,675000,Positif,TB klinis
-1,L,3,3.8,52,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Positif,Efusi pleura unilateral,11.9,8920,42000,Positif,TB terkonfirmasi bakteriologi
+1,L,3,8.5,57,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,Efusi pleura unilateral,10.4,15210,675000,Positif,TB
+1,L,3,3.8,52,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Positif,Efusi pleura unilateral,11.9,8920,42000,Positif,TB
 2,P,2,7,77,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,Atelektasis,10.1,12560,347000,tidak ada,bukan TB
-5,L,1,21,95,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Efusi pleura unilateral,12.9,7500,303000,Negatif,TB klinis
+5,L,1,21,95,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Efusi pleura unilateral,12.9,7500,303000,Negatif,TB
 1,P,3,5.6,62,tidak,Negatif,Gizi kurang,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,7.5,840,16000,Negatif,bukan TB
 1,L,1,8.5,62,tidak,Negatif,Gizi baik,tidak,iya,iya,tidak,tidak,Negatif,Pneumonia,9.3,7700,413000,tidak ada,bukan TB
-4,L,1,,,iya,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Tidak ada,11.6,5160,389000,Positif,TB klinis
-12,P,0,,,iya,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,,,,Positif,TB laten
+4,L,1,,,iya,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Tidak ada,11.6,5160,389000,Positif,TB
+12,P,0,,,iya,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,,,,Positif,TB
 1,P,0,3.25,52,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,10.1,11570,385000,Negatif,bukan TB
-1,L,2,4.8,57,tidak,Negatif,Gizi baik,iya,iya,tidak,iya,tidak,Positif,TB milier,7.5,20610,119000,Positif,TB terkonfirmasi bakteriologi
-13,P,1,37,144,tidak,Negatif,Gizi baik,iya,iya,tidak,iya,tidak,Negatif,Efusi pleura unilateral,13.5,12880,181000,Positif,TB klinis
-13,P,0,20,128,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,8.8,8700,350000,Positif,TB klinis
+1,L,2,4.8,57,tidak,Negatif,Gizi baik,iya,iya,tidak,iya,tidak,Positif,TB milier,7.5,20610,119000,Positif,TB
+13,P,1,37,144,tidak,Negatif,Gizi baik,iya,iya,tidak,iya,tidak,Negatif,Efusi pleura unilateral,13.5,12880,181000,Positif,TB
+13,P,0,20,128,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,8.8,8700,350000,Positif,TB
 1,P,0,3.4,43,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,8.9,14600,657000,Negatif,bukan TB
 1,P,0,,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,,,,tidak ada,bukan TB
-12,P,0,35,143,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,Pneumonia,5.4,15490,48000,Positif,TB laten
-1,P,2,4.2,56,iya,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,,12.5,24180,558000,tidak ada,TB klinis
+12,P,0,35,143,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,Pneumonia,5.4,15490,48000,Positif,TB
+1,P,2,4.2,56,iya,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Negatif,,12.5,24180,558000,tidak ada,TB
 14,L,3,30,142,tidak,Negatif,Gizi buruk,iya,tidak,iya,iya,tidak,Negatif,,9,12570,358000,tidak ada,bukan TB
 15,P,0,,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,iya,Negatif,,13.5,2400,168000,Negatif,bukan TB
-16,P,5,,,tidak,Positif,Gizi baik,iya,iya,tidak,iya,iya,Negatif,,,,,Positif,TB klinis
+16,P,5,,,tidak,Positif,Gizi baik,iya,iya,tidak,iya,iya,Negatif,,,,,Positif,TB
 1,L,0,11.5,85,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,9.9,16950,471000,Negatif,bukan TB
 1,P,1,8,78.5,tidak,Negatif,Gizi kurang,tidak,tidak,tidak,iya,iya,Negatif,Pneumonia,10.5,12200,319000,tidak ada,bukan TB
-2,L,2,10,85,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Pneumonia,10.2,14450,462000,Negatif,TB klinis
+2,L,2,10,85,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,Pneumonia,10.2,14450,462000,Negatif,TB
 10,L,2,21,125,tidak,Negatif,Gizi buruk,tidak,tidak,iya,iya,tidak,Negatif,,21.9,9170,167000,tidak ada,bukan TB
 8,L,0,33,121,tidak,Negatif,Gizi baik,tidak,tidak,iya,tidak,tidak,Negatif,,11.28,13500,336000,tidak ada,bukan TB
 10,P,2,20,120,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,,,,,tidak ada,bukan TB
 1,L,2,8,75,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,,,,,tidak ada,bukan TB
 1,L,0,2.5,57,tidak,Negatif,Gizi baik,tidak,tidak,tidak,iya,tidak,Negatif,,9.9,15690,767000,tidak ada,bukan TB
-10,L,5,25,125,tidak,Negatif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,TB milier,10.9,19070,404000,tidak ada,TB klinis
+10,L,5,25,125,tidak,Negatif,Gizi buruk,iya,iya,tidak,iya,tidak,Negatif,TB milier,10.9,19070,404000,tidak ada,TB
 4,L,0,14,98,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,12,9890,268000,tidak ada,bukan TB
 4,L,1,17,115,tidak,Negatif,Gizi kurang,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,12.5,12210,359000,tidak ada,bukan TB
-16,L,8,66,173,tidak,Negatif,Gizi baik,iya,iya,iya,iya,tidak,Positif,Efusi pleura bilateral,9.7,4760,427000,tidak ada,TB terkonfirmasi bakteriologi
-13,P,6,38.5,,tidak,Tidak ada,Gizi buruk,iya,iya,iya,iya,iya,Positif,Pneumonia,8.9,12620,244000,tidak ada,TB terkonfirmasi bakteriologi
-11,L,8,25,133,iya,Positif,Gizi kurang,iya,iya,iya,iya,iya,Positif,Pneumonia,10.1,6160,421000,tidak ada,TB terkonfirmasi bakteriologi
+16,L,8,66,173,tidak,Negatif,Gizi baik,iya,iya,iya,iya,tidak,Positif,Efusi pleura bilateral,9.7,4760,427000,tidak ada,TB
+13,P,6,38.5,,tidak,Tidak ada,Gizi buruk,iya,iya,iya,iya,iya,Positif,Pneumonia,8.9,12620,244000,tidak ada,TB
+11,L,8,25,133,iya,Positif,Gizi kurang,iya,iya,iya,iya,iya,Positif,Pneumonia,10.1,6160,421000,tidak ada,TB
 6,P,5,,,tidak,Negatif,Gizi baik,tidak,iya,tidak,tidak,tidak,Negatif,Normal,10.8,7400,160000,tidak ada,bukan TB
 6,L,6,12,103,tidak,Positif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,13,6790,307000,tidak ada,bukan TB
-14,L,9,,,iya,Positif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,TB paru,,,,tidak ada,TB klinis
-15,L,8,71,,tidak,Tidak ada,Gizi lebih,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,14.5,7680,368000,tidak ada,TB klinis
-3,L,7,10,84,tidak,Positif,Gizi kurang,iya,iya,iya,tidak,tidak,Negatif,TB paru,9.5,13920,399000,tidak ada,TB klinis
-14,L,6,29,144,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Pneumonia,11.1,3040,28000,tidak ada,TB terkonfirmasi bakteriologi
-1,L,7,,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,,,,tidak ada,TB klinis
-1,L,4,8,100,tidak,Positif,Gizi buruk,tidak,iya,iya,iya,tidak,Positif,Pneumonia,10.2,6620,591000,tidak ada,TB terkonfirmasi bakteriologi
-1,L,7,6.8,70,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,9.6,19980,761000,tidak ada,TB terkonfirmasi bakteriologi
-12,L,6,21,133,iya,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,TB milier,9.52,7990,152000,tidak ada,TB terkonfirmasi bakteriologi
-2,L,6,12,85,tidak,Negatif,Gizi baik,tidak,iya,tidak,tidak,iya,Tidak ada,Pneumonia,12.1,17590,496000,tidak ada,TB klinis
+14,L,9,,,iya,Positif,Gizi buruk,iya,iya,iya,iya,iya,Negatif,TB paru,,,,tidak ada,TB
+15,L,8,71,,tidak,Tidak ada,Gizi lebih,iya,iya,iya,tidak,tidak,Negatif,Pneumonia,14.5,7680,368000,tidak ada,TB
+3,L,7,10,84,tidak,Positif,Gizi kurang,iya,iya,iya,tidak,tidak,Negatif,TB paru,9.5,13920,399000,tidak ada,TB
+14,L,6,29,144,tidak,Negatif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,Pneumonia,11.1,3040,28000,tidak ada,TB
+1,L,7,,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,,,,tidak ada,TB
+1,L,4,8,100,tidak,Positif,Gizi buruk,tidak,iya,iya,iya,tidak,Positif,Pneumonia,10.2,6620,591000,tidak ada,TB
+1,L,7,6.8,70,iya,Negatif,Gizi kurang,iya,iya,iya,iya,tidak,Positif,Pneumonia,9.6,19980,761000,tidak ada,TB
+12,L,6,21,133,iya,Positif,Gizi buruk,iya,iya,iya,iya,tidak,Positif,TB milier,9.52,7990,152000,tidak ada,TB
+2,L,6,12,85,tidak,Negatif,Gizi baik,tidak,iya,tidak,tidak,iya,Tidak ada,Pneumonia,12.1,17590,496000,tidak ada,TB
 1,P,0,0.3,49,tidak,Negatif,Gizi baik,tidak,tidak,iya,tidak,tidak,Negatif,,7.2,23700,264000,Negatif,bukan TB
 1,P,1,0.3,50,tidak,Negatif,Gizi baik,tidak,tidak,iya,tidak,tidak,Negatif,Pneumonia,15.4,18610,311000,Negatif,bukan TB
 1,P,4,7.5,,tidak,Negatif,Gizi buruk,iya,iya,tidak,tidak,tidak,Negatif,,10.6,2590,54000,Negatif,bukan TB
 1,P,2,,,tidak,Negatif,Gizi baik,iya,iya,iya,tidak,tidak,Negatif,,11.2,11920,87000,Negatif,bukan TB
-1,L,4,8.9,75,tidak,Positif,Gizi baik,tidak,iya,tidak,tidak,tidak,Negatif,Normal,8.3,18000,807000,Positif,TB klinis
-1,L,2,6.5,,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,,7.9,6350,28000,Negatif,TB klinis
+1,L,4,8.9,75,tidak,Positif,Gizi baik,tidak,iya,tidak,tidak,tidak,Negatif,Normal,8.3,18000,807000,Positif,TB
+1,L,2,6.5,,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,,7.9,6350,28000,Negatif,TB
 1,P,1,7,64,tidak,Negatif,Gizi kurang,tidak,tidak,iya,tidak,tidak,Negatif,Normal,14.3,15670,200000,Negatif,bukan TB
 1,P,2,12.5,125.7,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,iya,tidak,Negatif,,15.3,21500,524000,Negatif,bukan TB
-1,P,5,31,,tidak,Positif,Gizi baik,iya,iya,tidak,iya,tidak,Positif,,,,,Positif,TB terkonfirmasi bakteriologi
-2,P,4,6.5,65,tidak,Positif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,10.3,6610,144000,Negatif,TB klinis
+1,P,5,31,,tidak,Positif,Gizi baik,iya,iya,tidak,iya,tidak,Positif,,,,,Positif,TB
+2,P,4,6.5,65,tidak,Positif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,10.3,6610,144000,Negatif,TB
 1,L,2,5.4,74,tidak,Negatif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,8.7,17210,259000,Negatif,bukan TB
 2,P,3,9.4,86,tidak,Negatif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,9.4,12970,475000,Negatif,bukan TB
 3,P,0,14.5,102,tidak,Negatif,Gizi baik,tidak,tidak,iya,iya,tidak,Negatif,,10.4,7260,180000,Negatif,bukan TB
@@ -130,14 +130,14 @@ Usia (tahun),Jenis Kelamin,Skor TB,BB,TB,Kontak TB,Mantoux,Status Gizi,Batuk2min
 1,L,0,,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,Pneumonia,,,,Negatif,bukan TB
 15,P,2,25,145,tidak,Negatif,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,Normal,7.9,45750,976000,Negatif,bukan TB
 2,P,0,8.3,81,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,10.7,23950,143000,Negatif,bukan TB
-12,P,0,45,150,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Positif,,3.7,24530,526000,Positif,TB terkonfirmasi bakteriologi
+12,P,0,45,150,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Positif,,3.7,24530,526000,Positif,TB
 1,P,2,3.3,54,tidak,Negatif,Gizi buruk,tidak,tidak,iya,tidak,tidak,Negatif,,9.6,10810,312000,Negatif,bukan TB
 6,L,0,18.5,110,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,8.7,4640,47000,Negatif,bukan TB
 3,P,0,12,90,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,12.5,9130,247000,Negatif,bukan TB
-13,L,6,36,154,tidak,Positif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,,,,tidak ada,TB klinis
+13,L,6,36,154,tidak,Positif,Gizi buruk,tidak,iya,tidak,tidak,tidak,Negatif,,,,,tidak ada,TB
 1,L,0,5.4,56,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,11,14180,273000,Negatif,bukan TB
 1,P,1,5.2,65,tidak,Tidak ada,Gizi kurang,iya,iya,tidak,tidak,tidak,Negatif,Pneumonia,9.2,120000,188000,tidak ada,bukan TB
 1,P,2,2.2,49,tidak,Negatif,Gizi buruk,tidak,tidak,iya,iya,tidak,Negatif,Pneumonia,12.4,21520,502000,Negatif,bukan TB
 1,L,0,6,,tidak,Negatif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,,12.1,14460,1040000,Negatif,bukan TB
-1,L,3,5.3,65,tidak,Tidak ada,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,9.3,14830,470000,Negatif,TB klinis
-4,L,4,,,tidak,Positif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,,,,Positif,TB klinis
+1,L,3,5.3,65,tidak,Tidak ada,Gizi buruk,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,9.3,14830,470000,Negatif,TB
+4,L,4,,,tidak,Positif,Gizi baik,tidak,tidak,tidak,tidak,tidak,Negatif,TB paru,,,,Positif,TB
